@@ -1,0 +1,3 @@
+--define:nimcore
+--path:"../CodeGenLib/src"
+--path:".."

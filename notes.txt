@@ -1,0 +1,18 @@
+ProcDef
+  Sym `test`
+  Empty
+  Empty
+  FormalParams
+    Empty
+    IdentDefs
+      Sym `arg`
+      Sym `int`
+      Empty
+  Empty
+  Empty
+  Command
+    Sym `echo`
+    HiddenStdConv
+      Empty
+      Bracket
+        StrLit "Hello world!"
